@@ -2,29 +2,9 @@
 
 > The most interesting project in the world > Verb
 
-## Install with [npm](npmjs.org)
+Example using map-reduce in a streaming environment.
 
-```bash
-npm i streaming-map-reduce-example --save
-```
-
-## Usage
-
-```js
-var gulpMapReduce = require('streaming-map-reduce-example');
-```
-
-## API
-
-
-
-## Run tests
-
-Install dev dependencies:
-
-```bash
-npm i -d && npm test
-```
+Add some `words-*.txt` files and run `gulp` to try it out.
 
 ## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/doowb/streaming-map-reduce-example/issues)
