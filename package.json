@@ -1,22 +1,22 @@
 {
-  "name": "gulp-map-reduce",
+  "name": "streaming-map-reduce-example",
   "description": "The most interesting project in the world > Verb",
   "version": "0.1.0",
-  "homepage": "https://github.com/doowb/gulp-map-reduce",
+  "homepage": "https://github.com/doowb/streaming-map-reduce-example",
   "author": {
     "name": "Brian Woodward",
     "url": "https://github.com/doowb"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/doowb/gulp-map-reduce.git"
+    "url": "git://github.com/doowb/streaming-map-reduce-example.git"
   },
   "bugs": {
-    "url": "https://github.com/doowb/gulp-map-reduce/issues"
+    "url": "https://github.com/doowb/streaming-map-reduce-example/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/doowb/gulp-map-reduce/blob/master/LICENSE"
+    "url": "https://github.com/doowb/streaming-map-reduce-example/blob/master/LICENSE"
   },
   "files": [
     "index.js"
