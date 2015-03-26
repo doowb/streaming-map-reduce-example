@@ -1,4 +1,3 @@
-
 var R = require('./r');
 var regression = require('regression');
 
